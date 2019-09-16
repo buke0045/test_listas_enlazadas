@@ -16,6 +16,7 @@ int main (int argc, char *argv[]) {
 		cout<<"4. Eliminar al Inicio."<<endl;
 		cout<<"5. Eliminar al Final."<<endl;
 		cout<<"6. Eliminar en Poiscion."<<endl;
+		cout<<"699. NEW LINE."<<endl;
 		cout<<"7. MOSTRAR."<<endl;
 		cout<<"8. Salir."<<endl;
 		cout<<"Opcion---> "; cin>>opt;
