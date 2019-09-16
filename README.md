@@ -2,5 +2,3 @@
 repositorio de prueba github
 
 Prueba GitHub readme branch
-
-Linea extra agregada
